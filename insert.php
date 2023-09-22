@@ -30,9 +30,9 @@
 
         // Check if the query is successful
         if(mysqli_query($conn, $sql)){
-            echo "<h3>data stored in a database successfully."
-                . " Please browse your localhost php my admin"
-                . " to view the updated data</h3>";
+            echo "<h3>Your Email Subscription is Successful."
+                . " Thank you for subscribing to Culinary Kaleidoscope newsletter!"
+                . " Get ready to receive the latest news, exclusive offers, and mouthwatering updates straight to your inbox.</h3>";
 
             echo nl2br("\n$Email");
         } else{

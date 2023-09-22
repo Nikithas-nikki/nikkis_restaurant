@@ -344,7 +344,7 @@
         <br>  
 
         <h1>Special Events and Catering</h1>
-        <p> Looking to host a special event or celebrate a milestone? Our restaurant is well-equipped to host private gatherings, celebrations, and corporate events. We also offer catering services, bringing the flavors of [Your Restaurant Name] to your chosen location.</p>
+        <p> Looking to host a special event or celebrate a milestone? Our restaurant is well-equipped to host private gatherings, celebrations, and corporate events. We also offer catering services, bringing the flavors of Culinary Kaleidoscope to your chosen location.</p>
         <br>
         
         <h1>Visit Us Today</h1>
@@ -357,8 +357,10 @@
       
       <div class="ourres-row">
         <div class="ourres-col s6">
-          <p>We are oprn on all days</p>
-          <p>Sunday-Monday : 7:00 - 12:30.00</p>
+          <p>We are open on all days</p>
+          <p>Sunday-Tuesday : 7:00am - 12:30am</p>
+          <p>Wednesday:8:00 am - 7:00 pm</p>
+          <p>Thursday-Saturday : 7:00am - 12:30am</p>
         </div>
       </div>
       
@@ -395,8 +397,8 @@
 
     </div>
   </div>
-  <!-- Image of location/map -->
-  <img src="ourresimages/map.jpg" class="ourres-image ourres-greyscale" style="width:100%;" id="myMap">
+  
+  
   
   <!-- Contact -->
   <div class="ourres-container ourres-padding-64 ourres-blue-grey ourres-grayscale-min ourres-xlarge">
@@ -428,7 +430,7 @@
     </div>
   </div>
 
-  <!--embdding a map-->
+  
 
   
   <!-- Footer -->
