@@ -74,7 +74,7 @@
   <header class="bgimg ourres-display-container ourres-grayscale-min" id="home">
     <img src="dishes/background-image.jpg" style:height=70%; width="100% ; ">
     <div class="ourres-display-bottomleft ourres-padding">
-      <span style="border-color:darkkhaki;" class="ourres-tag ourres-xlarge">Open from 7am to 12pm</span>
+      <span style="border-color:darkkhaki;" class="ourres-tag ourres-xlarge">Open from 7am to 12pm; Wed: 8am to 7pm</span>
     </div>
   </header>
    
