@@ -62,7 +62,7 @@
   <!-- Navbar (sit on top) -->
   <div class="ourres-top ourres-hide-small">
     <div class="ourres-bar ourres-xlarge ourres-black ourres-opacity ourres-hover-opacity-off" id="myNavbar">
-      <a href="#home" class="ourres-bar-item ourres-button" >HOME</a>
+      <a href="#home" class="ourres-bar-item ourres-button">HOME</a>
       <a href="#menu" class="ourres-bar-item ourres-button">MENU</a>
       <a href="#about" class="ourres-bar-item ourres-button">ABOUT</a>
       <a href="#chef" class="ourres-bar-item ourres-button">CHEFS</a>
@@ -76,7 +76,8 @@
     <div class="ourres-display-bottomleft ourres-padding">
       <span style="border-color:darkkhaki;" class="ourres-tag ourres-xlarge">Open from 7am to 12pm</span>
     </div>
-      </header>
+  </header>
+   
   
   <!-- Menu Container -->
   <div class="ourres-container ourres-black ourres-padding-60 ourres-xxlarge" id="menu" >
@@ -108,27 +109,27 @@
   
       <div id="south_Indian" class="ourres-container menu ourres-padding-32 ourres-white">
 
-        <h1><b>Idli</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.15</span></h1>
+        <h1><b>Idli</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.15</span></h1>
         <img src="dishes/idli.jpg" style="height:30%; width:400px;">
         <hr>
      
-        <h1><b>Vada</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.25</span></h1>
+        <h1><b>Vada</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.25</span></h1>
         <img src="dishes/vada-1.jpg" style="height:30%; width:400px;"> 
         <hr>
 
-        <h1><b>Poori</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.25</span></h1>
+        <h1><b>Poori</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.25</span></h1>
         <img src="dishes/poori.jpg" style="height:30%; width:400px;"> 
         <hr>
 
-        <h1><b>Upma</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.45</span></h1>
+        <h1><b>Upma</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.45</span></h1>
         <img src="dishes/upma.jpg" style="height:30%; width:400px;">
         <hr>
   
-        <h1><b>Avalakki Bath or poha</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.50</span></h1>
+        <h1><b>Avalakki Bath or poha</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.50</span></h1>
         <img src="dishes/avalakki bath.jpg" style="height:30%; width:400px;" >
         <hr>
 
-        <h1><b>Rava Idli</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.35</span></h1>
+        <h1><b>Rava Idli</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.35</span></h1>
         <img src="dishes/Rava Idli.jpg" style="height:30%; width:400px;" >
         <hr>
 
@@ -148,15 +149,15 @@
         <img src="dishes/meals.jpg" style="height: 20%;width: 400px; " >
         <hr>
      
-        <h1><b>Butter Kulcha</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.45</span></h1>
+        <h1><b>Butter Kulcha</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.45</span></h1>
         <img src="dishes/butter-kulcha.jpg" style="height: 20%;width: 400px; " >
         <hr>
         
-        <h1><b>Kulcha</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.40</span></h1>
+        <h1><b>Kulcha</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.40</span></h1>
         <img src="dishes/kulcha.jpeg" style="height: 20%;width: 400px; " >
         <hr>
   
-        <h1><b>Naan</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.45</span></h1>
+        <h1><b>Naan</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.45</span></h1>
         <img src="dishes/naan.jpg" style="height: 20%;width: 400px; " >
         <hr>
 
@@ -199,7 +200,7 @@
         <h1><b>Dry Items:</b> <span class="ourres-tag ourres-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span></h1>
         <hr>
 
-        <h1><b>Dhamekedar Alu Gobi</b> <span class="ourres-tag ourres-grey ourres-round"</span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.185</span></h1>
+        <h1><b>Dhamekedar Alu Gobi</b> <span class="ourres-tag ourres-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.185</span></h1>
         <img src="dishes/alu-gobi.jpeg" style="height: 20%;width: 400px; " >
         <hr>
       
@@ -247,76 +248,76 @@
   
       <div id="Mexican" class="ourres-container menu ourres-padding-32 ourres-white">
 
-        <h1><b>Cheesy Mexican Fries</b> <span class="ourres-tag ourres-grey ourres-round"></span><span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.130</span></h1>
+        <h1><b>Cheesy Mexican Fries</b> <span class="ourres-tag ourres-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.130</span></h1>
         <img src="dishes/mexican-fries.jpeg" style="height: 20%;width: 400px; " >
         <hr>
 
-        <h1><b>Guacamole</b> <span class="ourres-tag ourres-grey ourres-round">Seasonal</span><span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.130</span></h1
+        <h1><b>Guacamole</b> <span class="ourres-tag ourres-grey ourres-round">Seasonal</span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.130</span></h1>
         <img src="dishes/guacamole.jpg" style="height: 20%;width: 400px; " >
         <hr>
 
-        <h1><b>Exotic Mexican Pizza</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.149</span></h1>
+        <h1><b>Exotic Mexican Pizza</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.149</span></h1>
         <img src="dishes/mexican-pizza.jpeg" style="height: 20%;width: 400px; " >
         <hr>
         
-        <h1><b>Tacos de Verduras</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"Rs.140</span></h1>
+        <h1><b>Tacos de Verduras</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.140</span></h1>
         <img src="dishes/tacos.jpeg" style="height: 20%;width: 400px; " >
         <hr>
 
-        <h1><b>Nachos con Salsa Fresca</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.140</span></h1>
+        <h1><b>Nachos con Salsa Fresca</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.140</span></h1>
         <img src="dishes/nachos.jpeg" style="height: 20%;width: 400px; " >
         <hr>
 
-        <h1><b>Burrito de Verduras</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.140</span></h1>
+        <h1><b>Burrito de Verduras</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.140</span></h1>
         <img src="dishes/burrito.jpg" style="height: 20%;width: 400px; " >
         <hr>        
       </div>
 
       <div id="Italian" class="ourres-container menu ourres-padding-32 ourres-white">
-        <h1><b>Margherita Pizza</b> <span class="ourres-tag ourres-grey ourres-round">Seasonal</span><span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.150</span></h1>
+        <h1><b>Margherita Pizza</b> <span class="ourres-tag ourres-grey ourres-round">Seasonal</span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.150</span></h1>
         <img src="dishes/margherita-pizza.jpg" style="height: 20%;width: 400px; " >
         <hr>
      
-        <h1><b>Caprese Salad</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.150</span></h1>
+        <h1><b>Caprese Salad</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.150</span></h1>
         <img src="dishes/caprese-salad.jpg" style="height: 20%;width: 400px; " >
         <hr>
         
-        <h1><b>Eggplant Paramesan</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.150</span></h1>
+        <h1><b>Eggplant Paramesan</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.150</span></h1>
         <img src="dishes/eggplant.jpg" style="height: 20%;width: 400px; " >
         <hr>
         
         
-        <h1><b>Risotto alla Milanese</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.150</span></h1>
+        <h1><b>Risotto alla Milanese</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.150</span></h1>
         <img src="dishes/risotto.jpg" style="height: 20%;width: 400px; " >
         <hr>
 
-        <h1><b>Bruschetta</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.150</span></h1>
+        <h1><b>Bruschetta</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.150</span></h1>
         <img src="dishes/bruschetta.jpg" style="height: 20%;width: 400px; " >
         <hr>
 
-        <h1><b>Minestrone Soup</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.150</span></h1>
+        <h1><b>Minestrone Soup</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.150</span></h1>
         <img src="dishes/minestrone.jpg" style="height: 20%;width: 400px; " >
         <hr>
       </div>
 
       <div id="Chinese" class="ourres-container menu ourres-padding-32 ourres-white">
-        <h1><b>Vegetable Stir Fry</b> <span class="ourres-tag ourres-grey ourres-round">Seasonal</span><span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.150</span></h1>
+        <h1><b>Vegetable Stir Fry</b> <span class="ourres-tag ourres-grey ourres-round">Seasonal</span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.150</span></h1>
         <img src="dishes/stir-fry.jpg" style="height: 20%;width: 400px; " >
         <hr>
      
-        <h1><b>Niango</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.160</span></h1>
+        <h1><b>Niango (Year Cake)</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.160</span></h1>
         <img src="dishes/rice-cake.jpg" style="height: 20%;width: 400px; " >
         <hr>
         
-        <h1><b>Chun Juan</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.160</span></h1>
+        <h1><b>Chun Juan (Spring Roll)</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.160</span></h1>
         <img src="dishes/spring-roll.jpg" style="height: 20%;width: 400px; " >
         <hr>
         
-        <h1><b>Yuxiang quiezi</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.159</span></h1>
+        <h1><b>Yuxiang quiezi (Eggplant in garlic sauce)</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.159</span></h1>
         <img src="dishes/eggplant-in-garlic-sauce.jpg" style="height: 20%;width: 400px; " >
         <hr>
 
-        <h1><b>Liang Mian</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.160</span></h1>
+        <h1><b>Liang Mian (Cold Noodles)</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.160</span></h1>
         <img src="dishes/noodles.jpg" style="height: 20%;width: 400px; " >
         <hr>
       </div>
