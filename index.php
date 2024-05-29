@@ -260,10 +260,6 @@
         <img src="dishes/mexican-pizza.jpeg" style="height: 20%;width: 400px; " >
         <hr>
         
-        <h1><b>Tacos de Verduras</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.140</span></h1>
-        <img src="dishes/tacos.jpeg" style="height: 20%;width: 400px; " >
-        <hr>
-
         <h1><b>Nachos con Salsa Fresca</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.140</span></h1>
         <img src="dishes/nachos.jpeg" style="height: 20%;width: 400px; " >
         <hr>
