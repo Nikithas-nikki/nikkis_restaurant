@@ -278,7 +278,7 @@
         <img src="dishes/margherita-pizza.jpg" style="height: 20%;width: 400px; " >
         <hr>
      
-        <h1><b>Caprese Salad</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.150</span></h1>
+        <h1><b>Caprese Salad</b> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round"></span> <span class="ourres-right ourres-tag ourres-dark-grey ourres-round">Rs.150</span></h1>
         <img src="dishes/caprese-salad.jpg" style="height: 20%;width: 400px; " >
         <hr>
         
